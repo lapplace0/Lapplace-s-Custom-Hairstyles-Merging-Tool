@@ -1,0 +1,5 @@
+{
+  "agg_threshold": 0.11,
+  "merge_threshold": 0.15,
+  "grouping": true
+}

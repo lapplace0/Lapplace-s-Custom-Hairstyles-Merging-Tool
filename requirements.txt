@@ -1,0 +1,7 @@
+numpy==1.23.5              # Last version supporting np.float, np.int, etc.
+scipy>=1.8.0               # Compatible with numpy 1.23.x
+scikit-learn>=1.1,<1.3     # Avoids np.float deprecation issues
+pillow                     # For image loading/saving
+scikit-image               # For SSIM
+tqdm                       # For progress bars
+ttkbootstrap               # Themed UI toolkit for Tkinter

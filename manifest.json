@@ -1,0 +1,12 @@
+{
+   "Name": "[FS][LCH] Lapplace's Custom Hairs",
+   "Author": "lapplace",
+   "Version": "1.0.0",
+   "Description": "",
+   "UniqueID": "",
+	"ContentPackFor":
+	{
+		"UniqueID": "PeacefulEnd.FashionSense",
+		"MinimumVersion": "5.0.0"
+	}
+}
